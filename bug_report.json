@@ -1,1 +1,7 @@
-
+{
+  "summary":"the program crushes after click on red button",
+  "severety":"s1 blocker",
+  "steps to reproduce":" 1) open program 2) press red button",
+  "result":"program crushes",
+  "expected result":"open new window"
+}
